@@ -1,5 +1,5 @@
 
-# Landing Page for Dr Jonathan Luisi
+# Landing Page for Dr. Jonathan Luisi
 
 * Phd. Pharmacology and Toxicology, University of Texas Medical Branch, 2019 
 * B.S Biomedical Engineering and Electrical Engineering, Rensselaer Polytechnic Institute, 2009 
